@@ -1,0 +1,5 @@
+C:\Users\owner\Documents\Projects\c#\ga\EvoLisaClone\EvoLisaCloneTest\bin\Debug\EvoLisaCloneTest.dll
+C:\Users\owner\Documents\Projects\c#\ga\EvoLisaClone\EvoLisaCloneTest\bin\Debug\EvoLisaCloneTest.pdb
+C:\Users\owner\Documents\Projects\c#\ga\EvoLisaClone\EvoLisaCloneTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\owner\Documents\Projects\c#\ga\EvoLisaClone\EvoLisaCloneTest\obj\Debug\EvoLisaCloneTest.dll
+C:\Users\owner\Documents\Projects\c#\ga\EvoLisaClone\EvoLisaCloneTest\obj\Debug\EvoLisaCloneTest.pdb
